@@ -102,7 +102,7 @@ btn:active {
 }
 
 #title footer {
-    line-height: 50px;
+    line-height: 1.4;
     font-size: 16px;
     text-shadow: 0px 0px 5px #000;
 }
