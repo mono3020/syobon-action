@@ -226,7 +226,7 @@ mark {
     display: flex;
     flex-direction: column;
     font-size: 32px;
-    font-family: 黑体;
+    font-family: "MS PGothic", "Meiryo", sans-serif;
     width: 416px;
     margin: auto;
     background-color: #fff;
